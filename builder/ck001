@@ -1,0 +1,7 @@
+create a webMI project
+ - two svg elements are needed on a display.
+        - a black circle with id "Circle"
+        - a red regtangle with the id "Regtangle"
+        
+a click event on the "Circle" should change the color of the "Regtangle" from red to green
+a double click should set it back to red
